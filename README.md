@@ -1,2 +1,4 @@
-##어쩌구 저쩌구 이 프로그램에 대한 설명 어쩌구. README 기능을 알기 위해 만들어봤어요.
-##설명 또 추가했어요. r.repo가 l.repo보다 최신인 경우에는 어떻게하면 좋을지 알기 위해서죠.
+### README를 좀 더 멋지게 만들어봅시다.   
+**1. 제목처럼 만들기 .** : '###'을 앞에 붙이면 됩니다   
+- 자세한 마크다운 규칙은 아래의 링크 참조
+    Link: [Markdown_guides](https://gist.github.com/ihoneymon/652be052a0727ad59601, "github link")
